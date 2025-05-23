@@ -4,7 +4,7 @@
 A real-time web application designed to assist users with emergency roadside services and fuel delivery. 
 
 
-<a target="blank"><img align="center" src="https://github.com/Nikki-ta/Nikita/blob/main/image2.jpeg" width="70%"></a>
+<a target="blank"><img align="center" src="https://github.com/Nikki-ta/fuel_aid/blob/main/img1.png" width="70%"></a>
 
 ## Table of Contents
 
