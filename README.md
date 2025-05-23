@@ -158,4 +158,4 @@ For running the application:
 
 ## 📝 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the <a href="https://github.com/Nikki-ta/Sweet-Sage/blob/main/LICENSE.md" target="blank">LICENSE.MD</a> file for details.
