@@ -6,6 +6,17 @@ A real-time web application designed to assist users with emergency roadside ser
 
 <a target="blank"><img align="center" src="https://github.com/Nikki-ta/fuel_aid/blob/main/img1.png" width="70%"></a>
 
+## 🚀 Novelty
+
+FuelAid stands out from traditional service platforms due to its real-time geolocation, live tracking, and tailored role-based workflows. Key innovations include:
+
+- 🚗 **Role-Specific Interfaces:** Custom dashboards and features for customers, mechanics, fuel delivery personnel, and admins.
+- 📍 **Live Location Tracking:** Mechanics’ current locations are fetched on login to match service requests within a 100 km radius.
+- 🧾 **Automated PDF Report Generation:** PDFKit is used to create service reports and receipts, which are auto-emailed post-service.
+- 🔗 **Socket.io Real-Time Updates:** Enables live status updates and location changes without refreshing the page.
+- 🛡️ **Verified Service Providers:** Mechanics and fuel boys go through a detailed verification process for enhanced user trust and safety.
+
+
 ## Table of Contents
 
 - [Installation and setup](#installation-and-setup)
