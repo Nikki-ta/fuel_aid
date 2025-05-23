@@ -135,3 +135,8 @@ For running the application:
 - [Socket.io Docs](https://socket.io/docs/)
 - [OpenCage API](https://opencagedata.com/)
 - [GitHub Docs](https://docs.github.com/en/get-started/quickstart/hello-world)
+
+## Contact
+
+📧 For queries or contributions: [nikitabansal006@gmail.com](mailto:nikitabansal006@gmail.com)  
+🔗 GitHub Repo: [https://github.com/Nikki-ta/fuel-aid](https://github.com/Nikki-ta/fuel-aid)
