@@ -139,4 +139,4 @@ For running the application:
 ## Contact
 
 📧 For queries or contributions: [nikitabansal006@gmail.com](mailto:nikitabansal006@gmail.com)  
-🔗 GitHub Repo: [https://github.com/Nikki-ta/fuel-aid](https://github.com/Nikki-ta/fuel-aid)
+🔗 GitHub Repo: [https://github.com/Nikki-ta/fuel_aid](https://github.com/Nikki-ta/fuel_aid)
