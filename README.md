@@ -1,8 +1,7 @@
 # FuelAid 🚗⛽
 **Delivering Fuel & Roadside Aid Anytime, Anywhere!**  
 
-A real-time web application designed to assist users with emergency roadside services and fuel delivery. 
-
+FuelAid is a **real-time full-stack web application** built using **Node.js, Express, MongoDB, and Socket.io**, designed to assist users with **emergency roadside services and fuel delivery**. The platform supports **live geolocation tracking**, **role-based dashboards**, and **automated receipt generation** — ensuring seamless coordination between **customers**, **mechanics**, **fuel delivery agents**, and **admins**.
 
 <a target="blank"><img align="center" src="https://github.com/Nikki-ta/fuel_aid/blob/main/img1.png" width="70%"></a>
 
