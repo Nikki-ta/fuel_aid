@@ -1,9 +1,10 @@
 # FuelAid 🚗⛽
 **Delivering Fuel & Roadside Aid Anytime, Anywhere!**  
+
 A real-time web application designed to assist users with emergency roadside services and fuel delivery. 
 
 
-<img src="https://user-images.githubusercontent.com/86913048/226953269-e6ae0484-ab78-4c77-b199-aef793502d8d.png" width="70%">
+<a target="blank"><img align="center" src="https://github.com/Nikki-ta/Nikita/blob/main/image2.jpeg" width="70%"></a>
 
 ## Table of Contents
 
