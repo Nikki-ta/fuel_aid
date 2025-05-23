@@ -155,3 +155,7 @@ For running the application:
 
 📧 For queries or contributions: [nikitabansal006@gmail.com](mailto:nikitabansal006@gmail.com)  
 🔗 GitHub Repo: [https://github.com/Nikki-ta/fuel_aid](https://github.com/Nikki-ta/fuel_aid)
+
+## 📝 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
